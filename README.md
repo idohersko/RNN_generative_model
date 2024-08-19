@@ -93,3 +93,8 @@ The models were tested on a set of songs, generating lyrics based on the melody.
 
 This project demonstrated the challenges and potential of using GANs for lyrics generation conditioned on melody. While the generated lyrics did not consistently match the quality of real lyrics, the project provided valuable insights into the complexities of integrating GANs with RNNs in a musical context. The experience gained from this project lays the foundation for further exploration of generative models in creative applications.
 
+## Contributors
+
+- Elran Oren
+- Ido Hersko
+
