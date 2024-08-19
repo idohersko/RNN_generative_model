@@ -51,7 +51,7 @@ Two setups are explored:
 
 - **Setup 1**: The LSTM weights are frozen (non-trainable), retaining the weights from a previous task.
   The GAN hyperparameters:
-  - LSTM model's weights = FROZEN
+  - LSTM model's weights = FROZEN 
   - Number of Epoch = 100
   - Batch Size = 16
   - Optimizer for generator = Adam
